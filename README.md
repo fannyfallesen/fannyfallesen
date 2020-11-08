@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a very curious person, I enjoy to learning everything and I'm always labor to improve my skills.
+
+🔭I'm currently working as a Test Engineering Associate at Accenture.
+🌱I'm currently learning web development.
+📫How to reach me: fanny_fallesen@hotmail.com
+
+
 <!--
 **fannyfallesen/fannyfallesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
